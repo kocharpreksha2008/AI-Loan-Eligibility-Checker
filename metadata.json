@@ -1,0 +1,6 @@
+{
+  "name": "LoanAI - AI Loan Eligibility & Financial Intelligence",
+  "description": "Intelligent BFSI platform for loan eligibility checking, credit score analysis, interactive EMI calculation, and AI-powered financial advisory.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
